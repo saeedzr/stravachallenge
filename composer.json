@@ -1,0 +1,5 @@
+{
+    "require": {
+        "basvandorst/StravaPHP": "1.0.1"
+    }
+}
